@@ -3,6 +3,6 @@ My name is Anees
 
 Push
 
-committed
+committed - git commit -m "description"
 
 staged - git add .
